@@ -10,6 +10,12 @@ Below you'll find a list of resources source by fellow students to help you with
 
 [Animation Handbook](https://www.designbetter.co/animation-handbook?utm_campaign=animation-handbook&utm_source=email&utm_medium=Download%20email&utm_content=Fetch)
 
+[7 Tips for Writing Clear, Human Friendly Microcopy](https://www.sitepoint.com/writing-clear-human-friendly-microcopy/?utm_source=SitePoint&utm_medium=email&utm_campaign=SitePointWeekly&omhide=true)
+
+[Create Power CSS Animation Effects without JS](https://www.sitepoint.com/css-animation-no-javascript/?utm_source=SitePoint&utm_medium=email&utm_campaign=SitePointWeekly&omhide=true)
+
+
+
 ## Websites
 [CSS-Tricks](https://css-tricks.com/)
 
